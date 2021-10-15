@@ -1,0 +1,16 @@
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\bin\Debug\net5.0\rev.exe
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\bin\Debug\net5.0\rev.deps.json
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\bin\Debug\net5.0\rev.runtimeconfig.json
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\bin\Debug\net5.0\rev.runtimeconfig.dev.json
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\bin\Debug\net5.0\rev.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\bin\Debug\net5.0\ref\rev.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\bin\Debug\net5.0\rev.pdb
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.csproj.AssemblyReference.cache
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.AssemblyInfoInputs.cache
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.AssemblyInfo.cs
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.csproj.CoreCompileInputs.cache
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\ref\rev.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.pdb
+C:\Users\JPRB\Desktop\projetos\dio\cs\rev\obj\Debug\net5.0\rev.genruntimeconfig.cache
